@@ -50,6 +50,8 @@ Ticker and octant rendering help
 
 Leviathan Grandgousier AI and programming help
 
+- https://linktr.ee/moriyashiine
+
 ## Astronyu:
 
 Thumbnail artist, building help
