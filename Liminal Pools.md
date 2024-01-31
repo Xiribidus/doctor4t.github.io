@@ -56,6 +56,8 @@ Leviathan Grandgousier AI and programming help
 
 Thumbnail artist, building help
 
+- https://astronyu.carrd.co/
+
 ## EightSidedSquare:
 
 Poolfish AI and programming help, intro script help
