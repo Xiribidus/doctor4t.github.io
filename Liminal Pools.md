@@ -68,9 +68,9 @@ Poolfish AI and programming help, intro script help
 
 Getting trapped
 
-## EminGTR:
+## Complementary Shaders by EminGTR
 
-Original Complementary Shaders creator on which the Pool Shaders were based
+Shaderpack on which the pool shaders were based
 
 - https://twitter.com/emingtr?lang=en
 - https://legacy.curseforge.com/members/emingtr/projects

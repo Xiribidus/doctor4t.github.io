@@ -23,10 +23,16 @@ Concept, lead programmer
 
 ## Macedo:
 
-Concept, concept artist
+Concept, concept artist, builder
 
 - https://www.artstation.com/artwork/8balAG
 - https://www.instagram.com/macedo_art/
+
+## Tidal:
+
+Builder
+
+- https://twitter.com/LukeLonging
 
 ## Luxintrus:
 
@@ -54,7 +60,7 @@ Programming help
 
 - https://twitter.com/xHellionGamesx
 
-## Craftesque:
+## Joshesque:
 
 Title art
 
@@ -69,6 +75,11 @@ Shader and rendering help
 Thumbnail artist
 
 - https://astronyu.carrd.co/
+
+## Lodestone by SammySemicolon, ported to Quilt by Arathain:
+
+- SammySemicolon: https://linktr.ee/sammysemicolon
+- Arathain: https://github.com/Arathain
 
 ## Additional credits:
 
