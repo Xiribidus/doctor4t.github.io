@@ -6,7 +6,7 @@ Concept, lead programmer, editor, rat
 
 - https://www.youtube.com/doctor4t
 - https://www.twitch.tv/doctor4t
-- https://twitter.com/doctor4t\_
+- (https://twitter.com/doctor4t_)
 - https://ko-fi.com/doctor4t/
 
 ## YUNGNICKYOUNG:
