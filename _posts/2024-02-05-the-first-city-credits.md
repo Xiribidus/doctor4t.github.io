@@ -8,7 +8,7 @@ categories: credits
 
 ### RAT (doctor4t):
 
-Concept, project lead, lead programmer, editor, rat
+Concept, lead programmer, editor, rat
 
 - [YouTube](https://www.youtube.com/doctor4t)
 - [Twitter](https://twitter.com/doctor4t_)
@@ -26,6 +26,8 @@ Project lead, concept, lead programmer
 Concept, lead programmer
 
 - [Website](https://ichun.me)
+- [Modrinth](https://modrinth.com/user/iChun)
+- [CurseForge](https://www.curseforge.com/members/ohaiichun/projects)
 
 ### Macedo:
 
