@@ -98,7 +98,7 @@ Voice actress (trailer ad section), additional shots
 
 Quasar help, Foundry contact
 
-- [Twitter](https://twitter.com/AmoAsterVT)
+- [Linktree](https://linktr.ee/amoaster)
 
 ### Veil by Foundry:
 
