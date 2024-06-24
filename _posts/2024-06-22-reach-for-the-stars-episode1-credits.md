@@ -115,7 +115,7 @@ Quasar help, Foundry contact
 ### Additional credits:
 
 - [Solar system textures](https://www.solarsystemscope.com/textures/)
-- [Planet texture generator Blender plugin](blenderartists.org/t/procedural-planet-generator/1368598)
+- [Planet texture generator Blender plugin](https://www.blenderartists.org/t/procedural-planet-generator/1368598)
 - Intro images:
 	- https://commons.wikimedia.org/wiki/File:Artist's_rendering_ULAS_J1120%2B0641.jpg
 	- https://openverse.org/image/bf4d24ae-f948-498c-ae3d-6acab114a7d2?q=pulsar
